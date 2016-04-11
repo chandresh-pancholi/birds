@@ -11,4 +11,4 @@
   
   cd /birds-saltside
   
-  rails s
+  rails s puma
