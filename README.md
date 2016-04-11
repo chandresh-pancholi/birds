@@ -8,6 +8,7 @@
 
 
 * Steps to run the program:
-  cd /birds-saltside
+  
+cd /birds-saltside
   
   rails s
